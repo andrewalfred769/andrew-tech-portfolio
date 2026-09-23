@@ -1,0 +1,50 @@
+[
+  {
+    "id": "aura-market",
+    "title": "Aura Market",
+    "category": "Mobile Application",
+    "subtitle": "Native Commerce & Fluid Checkout",
+    "tags": ["React Native", "Expo", "Expo Router", "Context API"],
+    "description": "High-performance native commerce application built around instant tactile feedback, optimistic cart state management, and intuitive filter drawers.",
+    "highlights": [
+      "Zero-lag dynamic catalog filtering",
+      "Optimistic cart state with automatic subtotal calculation",
+      "Native bottom-sheet checkout previews"
+    ],
+    "link": "#",
+    "github": "#",
+    "badge": "Mobile"
+  },
+  {
+    "id": "pulsestay-api",
+    "title": "PulseStay Platform",
+    "category": "Full-Stack Web & API",
+    "subtitle": "Reservation Engine & Admin Services",
+    "tags": ["Node.js", "Express", "RESTful API", "JWT", "MongoDB"],
+    "description": "Centralized reservation engine and REST API featuring role-based authorization, conflict-free date booking algorithms, and modular MVC architecture.",
+    "highlights": [
+      "Role-Based Access Control (RBAC) with JWT & bcrypt",
+      "Centralized error handling and schema validation middleware",
+      "Structured MVC design ready for high concurrency"
+    ],
+    "link": "#",
+    "github": "#",
+    "badge": "Full-Stack"
+  },
+  {
+    "id": "vortex-3d",
+    "title": "Vortex 3D Lab",
+    "category": "Creative Tech & Canvas",
+    "subtitle": "Interactive WebGL Simulation",
+    "tags": ["Three.js", "WebGL", "GLSL Shaders", "Web Audio API"],
+    "description": "An interactive 3D laboratory running at a locked 60 FPS, featuring procedural bone kinematics that track pointer movement alongside custom particle stream shaders.",
+    "highlights": [
+      "Hierarchical bone tracking via smooth mouse-follow math",
+      "Additive-blended GPU particle emitter simulating plasma fire",
+      "Procedural audio synthesis without external media dependencies"
+    ],
+    "link": "#",
+    "github": "#",
+    "badge": "Creative Dev"
+  }
+]
